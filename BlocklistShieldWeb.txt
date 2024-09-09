@@ -652,6 +652,16 @@ https://mini-twitter-app.netlify.app/#/login
 https://kenwilde-twitter-clone.netlify.app/
 https://twitter-clon.netlify.app/flow/welcome
 https://twitter-clon.netlify.app/flow/login
+https://teams-soon.netlify.app/signin
 https://twittertoo.netlify.app/
 https://em-clone.netlify.app/
 https://login-sign-in.netlify.app/
+https://md-12794--stage-parspec-app.netlify.app/login
+https://teams-clone-client.netlify.app/
+https://www-manager-io.netlify.app/
+https://deploy-preview-4271--modjoapp.netlify.app/login
+https://crypto-fin.netlify.app/#/dashboard
+https://crypto-fin.netlify.app/#/login
+https://crypto-fin.netlify.app/#/register
+https://cryptobox.netlify.app/signin
+https://cryptobox.netlify.app/signup
