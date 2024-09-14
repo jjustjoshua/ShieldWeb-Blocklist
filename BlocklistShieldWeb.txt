@@ -1784,8 +1784,5 @@ https://epicgames-marvelquotes.netlify.app/
 https://epicgames-hd21.netlify.app/signin
 https://epicgames-hd21.netlify.app/signup
 https://epicgamesaz.netlify.app/
-https://reddit.com
-https://www.reddit.com/
-https://www.reddit.com
 https://epicgamesaz.netlify.app/signin
 https://epicgamesaz.netlify.app/epic-register
